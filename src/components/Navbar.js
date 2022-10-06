@@ -16,7 +16,7 @@ import {
 
 import { CgFileDocument } from "react-icons/cg";
 
-function Navbar(){
+function navbar(){
     const [expand, updateExpanded] = useState(false);
     const [navColour, updateNavbar] = useState(false);
 

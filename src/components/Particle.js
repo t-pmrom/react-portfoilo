@@ -2,7 +2,7 @@ import React from "react";
 import { SiVisualstudiocode } from "react-icons/si";
 import Particles from "react-tsparticles";
 
-function Particles(){
+function particles(){
     return (
         <Particles
         id ="tsparticles"
